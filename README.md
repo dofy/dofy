@@ -1,5 +1,3 @@
-<div align="center">
-
 ```javascript
 /**
  * ===========================
@@ -8,6 +6,8 @@
  * ===========================
  */
 ```
+
+<div align="center">
 
 # Hi, I'm Seven Yu 👋
 
