@@ -13,8 +13,6 @@
 
 **Builder · Open-source enthusiast · Lifelong learner**
 
-用代码解决真实问题，也享受把复杂的东西做得简单。
-
 [![Website](https://img.shields.io/badge/dofy.net-111827?style=for-the-badge&logo=safari&logoColor=white)](https://dofy.net)
 [![X](https://img.shields.io/badge/@dofy-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dofy)
 [![GitHub](https://img.shields.io/badge/Follow-dofy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dofy?tab=followers)
