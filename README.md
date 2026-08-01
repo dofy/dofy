@@ -21,13 +21,6 @@
 
 </div>
 
-## About me
-
-- 🧭 独立开发者，关注开发工具、Web 产品与 AI 应用
-- 🛠️ 喜欢做轻量、好用、可长期维护的工具
-- 🌱 持续学习，也持续参与开源
-- 💬 欢迎交流 Vim、TypeScript、Go 和产品开发
-
 ## Featured projects
 
 | Project | Description |
