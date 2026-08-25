@@ -46,7 +46,13 @@
 
 <div align="center">
 
-[![dofy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dofy&theme=github-compact&hide_border=true&area=true)](https://github.com/dofy)
+<a href="https://github.com/dofy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dofy/dofy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dofy/dofy/output/github-contribution-grid-snake.svg" />
+    <img alt="dofy's contribution snake" src="https://raw.githubusercontent.com/dofy/dofy/output/github-contribution-grid-snake.svg" />
+  </picture>
+</a>
 
 </div>
 
