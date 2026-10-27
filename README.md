@@ -19,6 +19,21 @@
 
 </div>
 
+## Recent projects
+
+| Project | Description |
+| :-- | :-- |
+| [Namo](https://github.com/dofy/namo) | A self-hosted Codex agent for Feishu and Lark, with project sessions and a local workbench |
+| [LinguaDock](https://github.com/dofy/LinguaDock) | Native macOS translation with on-device OCR and local or cloud models · [Website](https://linguadock.phpz.org) |
+| [WordClip](https://wordclip.phpz.org) | Capture vocabulary, look up words offline, and review with spaced repetition on Mac, iPhone, and iPad |
+| [Cruft](https://github.com/dofy/Cruft) | Native macOS cleanup for developer caches, build artifacts, and app leftovers · [Website](https://cruft.phpz.org) |
+| [Fishtank · Web](https://github.com/dofy/fishtank) | A cozy idle aquarium with breeding, collecting, and offline play · [Play](https://fishtank.phpz.org) |
+| [Fishtank · Mac & iPad](https://github.com/dofy/fishtank-apple) | A native pixel aquarium with breeding, collecting, and agent notifications |
+| [Learning Vim](https://github.com/dofy/learning-vim) | Interactive Vim lessons with an in-browser editor and offline support · [Learn](https://learning-vim.phpz.org) |
+| [Tsudoi](https://github.com/dofy/invite-maker) | A visual invitation editor with local CSV/TXT batch generation · [Try it](https://tsudoi.yahaha.net) |
+| [Books · 书库](https://read.phpz.xyz) | A Chinese-language online library with full-text reading and customizable reading preferences |
+| [kindle-dash](https://github.com/dofy/kindle-dash) | An e-ink dashboard for a jailbroken Kindle, with weather, notes, and system status |
+
 ## Featured projects
 
 | Project | Description |
@@ -32,6 +47,7 @@
 ## Toolbox
 
 <p>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
